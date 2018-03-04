@@ -1,0 +1,143 @@
+*{margin: 0;
+padding: 0;}
+html{
+	height: 100%;
+
+}
+
+body{
+
+	height: 100%;
+	font-family: xcjx;
+
+}
+#box{
+width: 100%;
+background-image: url(../img/bgim.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+ height: 100%;
+ z-index: 1;
+}
+#wblhyr{
+	width: 12rem;
+	height: 4rem;
+	margin-left: 30%;
+	position: absolute;
+	top: 11%;
+	z-index: 10;
+}
+
+.tfont{
+width: 5rem;
+height: 5rem;
+background-image: url(../img/fa0af359b34cd80ede42b94a61f5bff4.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+position:absolute;
+font-family: xcjx;
+font-size: 3.5rem;
+line-height: 5rem;
+text-align: center;
+font-weight: bold;
+z-index: 10;
+float: left;
+ }
+
+#xin{
+	top: 20%;
+	margin-left: 16%;
+}
+#chun{
+	top: 20%;
+	margin-left: 32%;
+}
+#ji{
+	top: 20%;
+	margin-left: 48%;
+}
+#xiang{
+	top: 20%;
+	margin-left: 64%;
+}
+.tz{z-index: 8;
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	top: 31%;
+color: orangered;
+	font-size: 1rem;
+	
+}
+#btnc{z-index: 10;
+background-image: url(../img/cxx.png);
+	width: 12rem;
+	height: 5rem;
+	margin-left: 9rem;
+color: black;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+position: absolute;
+top: 70%;
+font-size: 2rem;
+line-height: 5rem;
+text-align: center;}
+
+#btnfx{
+	width: 10rem;
+	height: 1.5rem;
+	line-height: 1.5rem;
+	font-size: 1rem;
+	color: orangered;
+	position: absolute;
+	top: 63%;
+	margin-left: 13rem;
+	z-index: 11;
+}
+#dimg{
+	width: 1.5rem;
+	height: 1.5rem;
+	float: left;
+	
+}
+#btngz{
+		width: 10rem;
+	height: 1.5rem;
+	line-height: 1.5rem;
+	font-size: 1rem;
+	color: orangered;
+	position: absolute;
+	top: 59%;
+	margin-left: 13rem;
+	z-index: 11;
+}
+#gzimg{
+	width: 1.5rem;
+	height: 1.7rem;
+	float: left;
+	margin-top: -0.3rem;
+	
+}
+#txtop{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: transparent;
+	position: absolute;
+}
+#ttx{
+	width: 14rem;
+	height: 40%;
+	position: absolute;
+	top: 34%;
+	left: 0;
+	z-index: 1;
+}
+#bzyh{
+	position: absolute;
+	bottom: 0rem;
+	width: 4rem;
+	height: 4rem;
+	left: 13rem;
+}
